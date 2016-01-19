@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: #3333ff;
+  font: 18px/1.4;
+  font-family: $helvetica;
+  color: #ff0000;
 }
 
 .container {
@@ -31,8 +32,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: Arial;
+  color: #ff0000;
   font-weight: bold;
 
   line-height: 1.7;
