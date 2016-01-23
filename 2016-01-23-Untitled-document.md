@@ -2,7 +2,7 @@
 title: MEDIA DECEPTION
 layout: post
 author: sam.woodroff
-permalink: /MEDIA-DECEPTION/
+permalink: /untitled-document/
 source-id: 11dHyiBpG1XGDG-z1sbbX0mykxeEYPorQyQCC8Lv3EDU
 published: true
 ---
