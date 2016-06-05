@@ -1,5 +1,5 @@
 ---
-title: Even More Microbit Tutorials And Numbers, String Values and Variables Plus How Curly Braces Work In Javascript
+title: Even More Microbit Tutorials 
 layout: post
 author: sam.woodroff
 permalink: /even-more-microbit-tutorials-and-numbers,-string-values-and-variables-plus-how-curly-braces-work-in-javascript/
