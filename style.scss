@@ -17,8 +17,13 @@ html {
   font-size: 100%;
 }
 
-table {
+table, th, td {
     border: 1px solid black;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
 }
 
 body {
@@ -27,14 +32,6 @@ body {
   font: 18px/1.4;
   font-family: "Comic Sans MS";
   color: #ff0000;
-}
-
-table {
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid black;
 }
 
 .container {
